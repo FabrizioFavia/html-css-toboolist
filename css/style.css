@@ -22,10 +22,10 @@ header img{
 header span{
     color: #021832;
     display: inline-block;
-    font-size: 50px;
+    font-size: 42px;
     font-weight: bold;
-    line-height: 50%;
-    margin-left: 110px;
+    line-height: 60%;
+    margin-left: 90px;
     transform: translate(-50%, -100%);
 }
 
