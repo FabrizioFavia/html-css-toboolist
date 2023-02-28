@@ -27,3 +27,41 @@ header span{
     margin-left: 110px;
     transform: translate(-50%, -120%);
 }
+
+.mainContainer{
+    width: 1000px;
+    height: 600px;
+    margin: 50px auto;
+    background-color: white;
+    border-radius: 2%;
+}
+
+.mainContainer button{
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+#firstButton{
+    background-color: #48ADF1;
+    color: white;
+    border: 0;
+    margin-right: 3px;
+    margin-left: 60px;
+}
+
+#secondButton{
+    background-color: white;
+    color: lightgray;
+    border: 1px solid lightgray;
+}
+
+hr {
+    height: 0.5%;
+    border: 0;
+    background-color: whitesmoke;
+}
+
