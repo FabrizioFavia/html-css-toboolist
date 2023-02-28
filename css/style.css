@@ -30,9 +30,10 @@ header span{
 }
 
 .mainContainer{
-    width: 1000px;
-    height: 650px;
-    margin: 40px auto;
+    width: 800px;
+    height: 610px;
+    margin-top: 40px;
+    margin-left: 265px;
     background-color: white;
     border-radius: 2%;
 }
