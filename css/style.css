@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
 }
 
 body{
@@ -18,7 +20,6 @@ header img{
 }
 
 header span{
-    font-family: 'Roboto', sans-serif;
     color: #021832;
     display: inline-block;
     font-size: 50px;
@@ -38,7 +39,6 @@ header span{
 
 .mainContainer button{
     display: inline-block;
-    font-family: 'Roboto', sans-serif;
     border-radius: 5px;
     padding: 8px;
     font-size: 12px;
@@ -65,3 +65,7 @@ hr {
     background-color: whitesmoke;
 }
 
+.mainContainer .box{
+    margin-left: 60px;
+    margin-top: 35px;
+}
