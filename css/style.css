@@ -83,6 +83,17 @@ hr {
     padding-left: 3px;
 }
 
+.cross{
+    height: 2%;
+    width: 2%;
+    display: inline-block;
+    font-size: 14px;
+    color:rgb(180, 25, 25);
+    border: 1px solid rgb(180, 25, 25);
+    border-radius: 50%;
+    padding-left: 4px;
+}
+
 .box .boxText{
     font-size: 16px;
     margin-left: 5px;
@@ -111,6 +122,14 @@ hr {
 
 #greenBox{
     background-color: #63C0A9
+}
+
+#violetBox{
+    background-color: #D763A1;
+}
+
+#greenishBox{
+    background-color: #B0C925;
 }
 
 
