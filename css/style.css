@@ -15,7 +15,7 @@ header{
 
 header img{
     margin: 10px 0 10px 25px;
-    width: 4.5%;
+    width: 4%;
     display: inline-block;
 }
 
@@ -26,13 +26,13 @@ header span{
     font-weight: bold;
     line-height: 50%;
     margin-left: 110px;
-    transform: translate(-50%, -120%);
+    transform: translate(-50%, -100%);
 }
 
 .mainContainer{
     width: 1000px;
-    height: 600px;
-    margin: 50px auto;
+    height: 650px;
+    margin: 40px auto;
     background-color: white;
     border-radius: 2%;
 }
@@ -67,5 +67,50 @@ hr {
 
 .mainContainer .box{
     margin-left: 60px;
-    margin-top: 35px;
+    margin-top: 25px;
+}
+
+
+
+.tick{
+    display: inline-block;
+    font-size: 15px;
+    color: rgb(78, 168, 78);
+    border: 1px solid rgb(78, 168, 78);
+    border-radius: 70%;
+}
+
+.box .boxText{
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+.box .coloredBox{
+    display: inline-block;
+    color: white;
+    border-radius: 10px;
+    font-size: 10px;
+    padding: 7px 9px 7px 9px;
+    margin-left: 5px;
+}
+
+#blueBox{
+    background-color: #48ADF1;
+}
+
+#orangeBox{
+    background-color: #F29E33
+}
+
+#purpleBox{
+    background-color: #9C72E4;
+}
+
+#greenBox{
+    background-color: #63C0A9
+}
+
+
+.box h2{
+    margin-bottom: 10px;
 }
