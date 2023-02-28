@@ -73,11 +73,14 @@ hr {
 
 
 .tick{
+    height: 2%;
+    width: 2%;
     display: inline-block;
-    font-size: 15px;
+    font-size: 14px;
     color: rgb(78, 168, 78);
     border: 1px solid rgb(78, 168, 78);
-    border-radius: 70%;
+    border-radius: 50%;
+    padding-left: 3px;
 }
 
 .box .boxText{
