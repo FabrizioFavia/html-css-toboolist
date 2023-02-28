@@ -16,3 +16,14 @@ header img{
     width: 5%;
     display: inline-block;
 }
+
+header span{
+    font-family: 'Roboto', sans-serif;
+    color: #021832;
+    display: inline-block;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 50%;
+    margin-left: 110px;
+    transform: translate(-50%, -120%);
+}
